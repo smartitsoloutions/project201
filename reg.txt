@@ -1,0 +1,3 @@
+this is my registration process
+Name of the person:
+contact number :
